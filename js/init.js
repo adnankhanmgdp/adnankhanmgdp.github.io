@@ -217,11 +217,11 @@ $.fn.DeeboProgressIsInViewport = function(content) {
 					var settings = {
 						"async": true,
 						"crossDomain": true,
-						"url": "https://api.ultramsg.com/instance63615/messages/chat",
+						"url": "https://api.ultramsg.com/instance67536/messages/chat",
 						"method": "POST",
 						"headers": {},
 						"data": {
-						  "token": "do6ylq5szrc63bhp",
+						  "token": "tvqegb3w0mxf2krw",
 						  "to": "+918756260980",
 						  "body": name+"\n"+phone+"\n"+email+"\n"+message
 					  }
@@ -241,11 +241,11 @@ $.fn.DeeboProgressIsInViewport = function(content) {
 					var settings = {
 						"async": true,
 						"crossDomain": true,
-						"url": "https://api.ultramsg.com/instance63615/messages/chat",
+						"url": "https://api.ultramsg.com/instance67536/messages/chat",
 						"method": "POST",
 						"headers": {},
 						"data": {
-						  "token": "do6ylq5szrc63bhp",
+						  "token": "tvqegb3w0mxf2krw",
 						  "to": ""+phone,
 						  "body": "Hello, This is Zuhaib.\nThank you "+name+" for choosing me! I will contact you shortly."
 					  }
